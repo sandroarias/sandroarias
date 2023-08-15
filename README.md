@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho com back-end 
 - 🌱 Estudando Ciências da computação
 
+
 <div align="center">
   <a href="https://github.com/sandroarias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandroarias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
