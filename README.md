@@ -1,7 +1,8 @@
 ## Olá! Eu sou Sandro Ospina Arias
 
 - 🔭 Hoje trabalho com back-end 
-- 🌱 Estudando Ciências da computação
+- 🌱 Bacharel em Ciências da computação
+- Pós graduação em IA (andamento)
 
 
 <div align="center">
