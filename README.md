@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com back-end 
 - 🌱 Bacharel em Ciências da computação
-- Pós graduação em IA (andamento)
+- Pós graduação em IA
 
 
 <div align="center">
